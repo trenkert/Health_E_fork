@@ -10,7 +10,7 @@ pandas
 datetime
 mkl-fft
 mkl-random 
-mkl-service==2.4.0
-munkres==1.1.4
+mkl-service
+munkres
 typing
 cohere
